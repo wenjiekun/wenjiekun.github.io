@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100%;
+}
+body{
+	font-size: 20px;
+	line-height: 1.6;
+}
+.page-header{
+	font-size: 30px;
+	position: absolute;
+	top: 80px;
+	right:20px;
+}
+.tupian{
+	position: relative;
+	top: 70px;
+}
+.juzi{
+	position: absolute;
+	top: 150px;
+	right: 50px;
+	font-size: 100px;
+}
+.tupian1{
+	position: absolute;
+	top: 300px;
+	right: 5px;
+	background-size: 40px 40px;
+}
+.page-footer{
+	position: relative;
+	bottom: 130px;
+    left: 400px;
+}
+.kkk{
+	background-size:contain;
+}
